@@ -12,7 +12,7 @@ function Mycv() {
         <div className="bg-gray-300 flex flex-col gap-y-5 w-[50%] shadow-md border-gray-600 border-spacing-1">
           <div className="flex flex-col mt-1 gap-y-3 items-center w-[100%]">
             <Image
-              src="/images/me.jpg"
+              src="/image/me.jpg"
               height={120}
               alt="my profile"
               width={120}
